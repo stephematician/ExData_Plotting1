@@ -1,3 +1,5 @@
+# R script to download and extract data, and generate all four plots
+
 source('CP1_data_extract.R')
 
 source('plot1.R')

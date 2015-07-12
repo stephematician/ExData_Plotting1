@@ -1,3 +1,6 @@
+# This script uses data extracted from UC Irvine Machine Learning Repo
+# see CP1_data_extract.R for details
+
 local_file <- './data/household_power_twoday_consumption.csv'
 png_file <- 'plot3.png'
 

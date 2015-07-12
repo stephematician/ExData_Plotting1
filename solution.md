@@ -1,4 +1,6 @@
 ## Exploratory Data Analysis Course Project 1
+Stephen Wade
+12/7/2015
 
 ### Data
 
