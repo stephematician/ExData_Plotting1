@@ -1,0 +1,3 @@
+#!/bin/bash
+
+Rscript generate_all.R
